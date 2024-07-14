@@ -29,17 +29,19 @@ Here are some ideas to get you started:
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <!-- Java -->
- <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80"/>  
+ <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70"/>  
 <!-- Lua -->
- <a href="https://www.lua.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" width="80" height="80"/>  
+ <a href="https://www.lua.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" width="70" height="70"/>  
  <!-- Python -->
- <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80" height="80"/>  
+ <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70"/>  
 <!-- IntelliJ -->
- <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" width="80" height="80"/>  
+ <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" width="70" height="70"/>  
 <!-- VSCode -->
- <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/>  
-<!-- Redis -->
- <a href="https://redis.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="80" height="80"/>  
+ <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70"/>
 <!-- Mongo -->
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="80" height="80"/>  
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="70"/>
+<!-- MySQL -->
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70" height="70"/>    
+<!-- Redis -->
+ <a href="https://redis.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="70" height="70"/>  
 </a></p>
