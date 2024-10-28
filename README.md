@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>🌟 I'm Athish, a High School student, Software Engineer and Game Designer! 💻🎮 Passionate about crafting high-performance, scalable software and games. 🚀</h3>
 
 - 🚀 I’m currently working on **Lotus** 🌸
-- 📚 I’m currently learning **C/C++ & Kotlin** , **Pre/Post Quantum Cryptography**
+- 📚 I’m currently learning **Rust ⚙️** , **Pre/Post Quantum Cryptography**
 - 🎩 I’m looking to collaborate on **Unique ideas** or **Projects in a Competetive Area**
 
 <h1 align="center">About me</h1>
