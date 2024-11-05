@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🚀 I’m currently working on **Lotus** 🌸
 - 📚 I’m currently learning **Rust ⚙️** , **Pre/Post Quantum Cryptography**
-- 🎩 I’m looking to collaborate on **Unique ideas** or **Projects in a Competetive Area**
+- 🎩 I’m looking to collaborate on **Unique ideas** or **Projects in a Competitive Area**
 
 <h1 align="center">About me</h1>
 <div align="center">
