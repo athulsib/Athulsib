@@ -1,6 +1,6 @@
 # 🔱 Athulsib
 
-🌟**I'm a High School student, Software Engineer & Game Designer with an applied systems mindset, deeply interested in: **
+🌟 **I'm a High School student, Software Engineer & Game Designer with an applied systems mindset & deep interest in:**
 
 - 🔐 **Software security** | DRM, Anti-Reverse engineering, Runtime Tamper protection)
 - 📊 **Pattern recognition & behavioral analysis**
