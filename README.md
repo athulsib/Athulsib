@@ -90,8 +90,9 @@
 
 ### 🔐 **Seraphim** – Modular Software DRM & Anti-Piracy System
 #### A runtime DRM & license validation system for secure distribution.
-- Millitary grade encryption for secure information exchange & data integrity.
+- Millitary grade encryption for secure information exchange.
 - Hardened against reverse engineering to protect proprietary code & highly confidential information.
+- Automated Zeroization techniques for protecting data integrity.
 
 ### 🧠 **Behavioral Anomaly detection & Anticheat**
 #### Detection system for abnormal behavior patterns.
