@@ -8,7 +8,7 @@
 - 🛠️ **Low-footprint, high-resilience backend systems**
 - 📐 **Mathematical modeling in software**
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 <p> 
 <!-- Java -->
  <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>  
