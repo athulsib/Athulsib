@@ -1,27 +1,14 @@
-
-<!--
-**Athishh/Athishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 🔱 Athulsib
 
-🌟**I'm a High School student, Software Engineer & Game Designer.**
+🌟**I'm a High School student, Software Engineer & Game Designer with an applied systems mindset, deeply interested in: **
 
-- 🚀 I’m currently working on **Resonos AI** 🤖
-- 📚 I’m currently learning **AI Automation** ⚙️
-<!--- 🎩 I’m looking to collaborate on **Unique ideas** or **Projects in a Competitive Area**-->
+- 🔐 **Software security** | DRM, Anti-Reverse engineering, Runtime Tamper protection)
+- 📊 **Pattern recognition & behavioral analysis**
+- 🧠 **AI automation & Agent engineering**
+- 🛠️ **Low-footprint, high-resilience backend systems**
+- 📐 **Mathematical modeling in software**
 
-**Tech Stack & Tools:**
+### 🧰 Tech Stack
 <p> 
 <!-- Java -->
  <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/>  
@@ -98,3 +85,21 @@ Here are some ideas to get you started:
  
   
 </a></p>
+
+## 🧩 Notable Projects 
+
+### 🔐 **Seraphim** – Modular Software DRM & Anti-Piracy Framework
+#### A runtime DRM & license validation system for secure distribution.
+- Millitary grade encryption for secure information exchange & data integrity.
+- Hardened against reverse engineering to protect proprietary code & highly confidential information.
+
+### 🧠 **Behavioral Anomaly detection & Anticheat**
+#### Detection system for abnormal behavior patterns.
+- **Statistical analysis**: Data-driven analysis of observed data.
+- **Signature recognition**: Tracks trends over time using statistical signatures
+- **Anomaly detection**
+
+### 📦 **Resonos Control Panel**
+##### Unified SaaS backend for license, telemetry, and customer management integrated with DRM.
+- Server sided authentication & tamper detection. 
+- Integrates with Discord bots, DRM agents & plugin APIs
