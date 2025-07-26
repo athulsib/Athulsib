@@ -88,7 +88,7 @@
 
 ## 🧩 Notable Projects 
 
-### 🔐 **Seraphim** – Modular Software DRM & Anti-Piracy Framework
+### 🔐 **Seraphim** – Modular Software DRM & Anti-Piracy System
 #### A runtime DRM & license validation system for secure distribution.
 - Millitary grade encryption for secure information exchange & data integrity.
 - Hardened against reverse engineering to protect proprietary code & highly confidential information.
