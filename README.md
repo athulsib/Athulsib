@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 🌟**I'm a High School student, Software Engineer & Game Designer.**
 
-- 🚀 I’m currently working on **Lotus** 🌸
-- 📚 I’m currently learning **Rust ⚙️** , **Pre/Post Quantum Cryptography**
+- 🚀 I’m currently working on **Resonos AI** 🤖
+- 📚 I’m currently learning **AI Automation** ⚙️
 <!--- 🎩 I’m looking to collaborate on **Unique ideas** or **Projects in a Competitive Area**-->
 
 **Tech Stack & Tools:**
